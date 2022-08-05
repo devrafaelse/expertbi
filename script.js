@@ -1,6 +1,6 @@
 function relatorio1(){
     var rel = document.querySelector("#relatorio");
-    rel.setAttribute('src', 'https://app.powerbi.com/view?r=eyJrIjoiYjg2ZTc2Y2YtOWNmZS00NjUwLTljNmItMDkwMzNhOGQ0NTg4IiwidCI6ImY3NzVhODAwLTQ4NmItNDkzNS05ZTE3LTBkYWNmYWE5OWRlMSJ9');
+    rel.setAttribute('src', 'https://app.powerbi.com/view?r=eyJrIjoiYWIwNTg4OGUtYmRlOS00MzE2LTliMTQtYjg1MWQyOGQzZmU0IiwidCI6ImY3NzVhODAwLTQ4NmItNDkzNS05ZTE3LTBkYWNmYWE5OWRlMSJ9');
 }
 
 function relatorio2(){
