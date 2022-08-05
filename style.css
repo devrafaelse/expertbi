@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Montserrat', 'sans-serif', 'Arial', 'Helvetica';
+    font-size: 13px;
+    overflow-x: hidden;
+}
+.page{
+    height: calc(100vh - 70px);
+    background-color: rgb(2, 17, 65);
+}
+.report1{
+    width: 100vw;
+    height: 100%;
+}
+.logoimg{
+    height: 50px;
+}
+#logo:hover{
+    cursor: pointer;
+}
+.menu{
+    display: flex;
+    justify-content: center;
+    height: 70px;
+    align-items: center;
+}
+.menu button{
+    cursor: pointer;
+    height: 30px;
+    margin: 10px;
+    width: 100px;
+    border: 0;
+    background-color: rgb(255, 255, 255);
+    color: black;
+    border-radius: 10px;
+    font-weight: bold;
+}
+.mostrar{
+    display: block;
+}
+.ocultar{
+    display: none;
+}
