@@ -10,6 +10,6 @@ function relatorio2(){
 
 function relatorio3(){
     var rel = document.querySelector("#relatorio");
-    rel.setAttribute('src', 'https://app.powerbi.com/view?r=eyJrIjoiNTJmY2RiZjYtZTQyNi00YzVmLWIxYzAtMjEyODk4YjZhMzAzIiwidCI6ImY3NzVhODAwLTQ4NmItNDkzNS05ZTE3LTBkYWNmYWE5OWRlMSJ9');
+    rel.setAttribute('src', 'https://app.powerbi.com/view?r=eyJrIjoiNTk1MWFhZDQtZjNhMy00OTJiLWJhMjQtMGNjNmQ2MTQ4OTY3IiwidCI6ImY3NzVhODAwLTQ4NmItNDkzNS05ZTE3LTBkYWNmYWE5OWRlMSJ9');
 }
 
